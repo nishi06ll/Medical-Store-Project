@@ -1,0 +1,67 @@
+.container {
+  margin-top: 20px;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.rounded {
+  border-radius: 15px !important;
+}
+
+.shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+.form-control.search-box {
+  border-radius: 50px;
+  padding: 10px 20px;
+  font-size: 16px;
+  width: 300px;
+}
+
+.btn.search-btn {
+  border-radius: 50px;
+  padding: 10px 20px;
+  margin-left: 10px;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.btn-add-medicine {
+  background-color: #28a745;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 50px;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-add-medicine:hover {
+  background-color: #218838;
+}
+
+.add-medicine-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.add-medicine-link:hover {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
